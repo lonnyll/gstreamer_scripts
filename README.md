@@ -1,4 +1,4 @@
-# gstreamer_scripts\
+# gstreamer_scripts
 Various GStreamer Linux and Windows scripts for rtsp, rtmp, h264, and opencv\
 \
 gdi2rtmp.bat      - Stream from Windows monitor/desktop to RTMP server using directsound, NVidia and AMD hardware acceleration, and software encoding examples\
