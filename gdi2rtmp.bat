@@ -1,6 +1,6 @@
 @ECHO OFF
 
-:: This is not optimized and generates lots of clock/latency warnings but the video output is nice ;)
+:: This is a new script and not at all optimized. It generates lots of clock/latency warnings.  But the video output is nice ;)
 
 set path=%PATH%;c:\gstreamer\1.0\msvc_x86_64\bin
 set GST_DEBUG=0
